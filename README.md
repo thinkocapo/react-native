@@ -14,7 +14,8 @@ react-native-cli: 2.0.1
 2. Install dependencies
 ```
 npm install -g react-native-cli
-npm install && yarn install
+// npm install && yarn install
+npm install
 ```
 3. Configure the SDK with your `PUBLIC_DSN_KEY` in App.js
 4. Configure sentry.properties with your organization, project and auth token
